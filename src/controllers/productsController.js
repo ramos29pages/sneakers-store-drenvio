@@ -1,6 +1,5 @@
 
 const Product = require('../models/Product');
-const authorization = require('../services/auth');
 
 exports.getActiveProducts = async (req, res) => { 
   try {
