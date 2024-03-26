@@ -1,0 +1,22 @@
+[
+    {
+        "customer": 1234567890,
+        "brand": "nike",
+        "discount": 0.4
+    },
+    {
+        "customer": 9876543210,
+        "brand": "adidas",
+        "discount": 0.6
+    },
+    {
+        "customer": 3210987654,
+        "brand": "puma",
+        "discount": 0.3
+    },
+    {
+        "customer": 2345678901,
+        "brand": "reebok",
+        "discount": 0.3
+    }
+]

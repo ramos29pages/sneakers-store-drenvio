@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Juan Pérez",
+      "identification": 1234567890
+    },
+    {
+      "name": "María García",
+      "identification": 9876543210
+    },
+    {
+      "name": "Carlos Rodríguez",
+      "identification": 4567890123
+    },
+    {
+      "name": "Ana López",
+      "identification": 3210987654
+    },
+    {
+      "name": "Pedro Martínez",
+      "identification": 7890123456
+    },
+    {
+      "name": "Laura Sánchez",
+      "identification": 2345678901
+    },
+    {
+      "name": "Manuel González",
+      "identification": 9012345678
+    },
+    {
+      "name": "Sofía Ramírez",
+      "identification": 5678901234
+    },
+    {
+      "name": "Diego Hernández",
+      "identification": 8901234567
+    },
+    {
+      "name": "Gabriela Castro",
+      "identification": 3456789012
+    }
+  ]
+  

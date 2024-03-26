@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Zapatillas Nike Air Max",
+      "inStock": 20,
+      "basePrice": 120000,
+      "brand": "nike"
+    },
+    {
+      "name": "Zapatillas Adidas Ultraboost",
+      "inStock": 15,
+      "basePrice": 140000,
+      "brand": "adidas"
+    },
+    {
+      "name": "Zapatillas Puma RS-X",
+      "inStock": 10,
+      "basePrice": 100000,
+      "brand": "puma"
+    },
+    {
+      "name": "Zapatillas Converse Chuck Taylor",
+      "inStock": 25,
+      "basePrice": 80000,
+      "brand": "converse"
+    },
+    {
+      "name": "Zapatillas Vans Old Skool",
+      "inStock": 18,
+      "basePrice": 90000,
+      "brand": "vans"
+    },
+    {
+      "name": "Zapatillas Reebok Classic Leather",
+      "inStock": 12,
+      "basePrice": 95000,
+      "brand": "reebok"
+    },
+    {
+      "name": "Zapatillas New Balance 574",
+      "inStock": 22,
+      "basePrice": 110000,
+      "brand": "newbalance"
+    },
+    {
+      "name": "Zapatillas Skechers D'Lites",
+      "inStock": 30,
+      "basePrice": 75000,
+      "brand": "converse"
+    },
+    {
+      "name": "Zapatillas Asics Gel-Kayano",
+      "inStock": 17,
+      "basePrice": 130000,
+      "brand": "reebok"
+    },
+    {
+      "name": "Zapatillas Disruptor",
+      "inStock": 8,
+      "basePrice": 85000,
+      "brand": "balenciaga" 
+    },
+    {
+      "name": "Zapatillas Carnaby Evo",
+      "inStock": 11,
+      "basePrice": 150000,
+      "brand": "reebok"
+    },
+    {
+      "name": "Zapatillas Tommy Hilfiger Corporate",
+      "inStock": 14,
+      "basePrice": 125000,
+      "brand": "nike"
+    }
+  ]
